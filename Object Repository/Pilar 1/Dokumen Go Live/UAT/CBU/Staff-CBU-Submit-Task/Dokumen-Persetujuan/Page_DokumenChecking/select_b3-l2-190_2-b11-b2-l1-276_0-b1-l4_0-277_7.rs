@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_b3-l2-190_2-b11-b2-l1-276_0-b1-l4_0-277_7</name>
+   <tag></tag>
+   <elementGuidId>77e9935d-9ad5-4ef2-9278-d85f796e05ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;\30 \.8s0714r0ksa&quot;] .table-row:nth-child(8) [data-header=&quot;Keberadaan&quot;] [required=&quot;&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div/div[3]/div[1]/section/section/div/div/div[3]/article/div/div/div/div/div/div/div/div[2]/div/div/div[2]/div/div[2]/table/tbody/tr[8]/td[3]/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b9bf92da-0ee0-44af-a3b2-375c4c6d7c95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-display dropdown</value>
+      <webElementGuid>823bda3d-42b8-455e-a22d-7e7f62b27cb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>90b0c370-92b7-42a6-9269-29d5a38b3818</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>b3-l2-190_2-b11-b2-l1-276_0-b1-l4_0-277_7-Keberadaan</value>
+      <webElementGuid>1390f935-e22b-4f9d-9fb9-e761ba018c7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select a categoryAdaTidak Ada</value>
+      <webElementGuid>3959b447-911b-4733-b0ef-7468c3426c6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-0f42575d8d1784189c3202c2042f065e</value>
+      <webElementGuid>a99c6f52-c67b-4f3a-8971-6562b136336a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = '0.8s0714r0ksa']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' table-row ') and (position() = 8)]//*[@data-header = 'Keberadaan']//*[@required = '']</value>
+      <webElementGuid>ab02a8ef-bacf-4d2f-ace3-e96541fbffc3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = '0.8s0714r0ksa']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' table-row ') and (position() = 8)]//*[@data-header = 'Keberadaan']//*[@required = '']</value>
+      <webElementGuid>e1678c8f-63df-4dd2-9ce8-f7dac96e672e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'b3-l2-190_2-b11-b2-l1-276_0-b1-l4_0-277_7-Keberadaan' and (text() = 'Select a categoryAdaTidak Ada' or . = 'Select a categoryAdaTidak Ada')]</value>
+      <webElementGuid>2be934bd-26ff-40ed-b4b4-497f5dda5d22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

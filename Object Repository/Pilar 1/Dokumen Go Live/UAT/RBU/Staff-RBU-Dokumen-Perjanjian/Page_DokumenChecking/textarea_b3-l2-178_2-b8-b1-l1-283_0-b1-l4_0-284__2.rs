@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_b3-l2-178_2-b8-b1-l1-283_0-b1-l4_0-284__2</name>
+   <tag></tag>
+   <elementGuidId>e7e2dec2-87e3-4837-a2c5-f7d01adc59a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;\30 \.eslnn10ps2&quot;] .table-row:nth-child(7) textarea</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div/div[3]/div[1]/section/section/div/div/div[3]/article/div/div/div/div/div/div/div[2]/div/div/div[2]/div/div[2]/table/tbody/tr[7]/td[6]/span/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>8498bc82-6aee-4a6e-b9a2-248eb522d2df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control text-area-custom OSFillParent</value>
+      <webElementGuid>90e655e1-2cf4-44b6-934e-29cc3a841657</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>3ffb4524-260a-4ba7-8200-f9fa0d2bed23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>500</value>
+      <webElementGuid>7471f604-2093-4efb-babf-3191c45d551d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>b3-l2-178_2-b8-b1-l1-283_0-b1-l4_0-284_6-Catatan</value>
+      <webElementGuid>73b03beb-fb05-4317-a976-dbd2062215e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-8e9e8d39f9df2c68824b77b0295d1ad7</value>
+      <webElementGuid>f5441b26-2a5a-4093-b08f-d102e5a43a43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = '0.eslnn10ps2']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' table-row ') and (position() = 7)]//textarea</value>
+      <webElementGuid>b7c4660d-9947-446c-a5c5-89dcb0310acc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = '0.eslnn10ps2']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' table-row ') and (position() = 7)]//textarea</value>
+      <webElementGuid>67e231d6-e8fb-4e89-8b2b-c6c8543944c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'b3-l2-178_2-b8-b1-l1-283_0-b1-l4_0-284_6-Catatan']</value>
+      <webElementGuid>f8f8ceef-211a-404b-a1fb-16a49c3d62fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

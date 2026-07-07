@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_b3-l2-185_0-b11-b1-l2-325_3-b1-l4_0-329_2_1</name>
+   <tag></tag>
+   <elementGuidId>fed58add-670f-4069-8897-6ff23bc9a28a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-block=&quot;MonitoringGoLive_Component\.Component_TableCustom&quot;]:nth-child(5) .table-row:nth-child(3) [data-header=&quot;Ketepatan&quot;] [required=&quot;&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div/div[3]/div[1]/section/section/div/div/div[1]/article/div/div/div/div/div[2]/div/div[4]/div[2]/div/div/div[2]/div/div[2]/table/tbody/tr[3]/td[4]/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>eec86252-0240-4f70-b356-ef30332199c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-display dropdown</value>
+      <webElementGuid>3fdf58f6-db37-4bb4-b967-3bd783a79e22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>3a4590f3-5184-4c39-bfcb-4601532262e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>b3-l2-185_0-b11-b1-l2-325_3-b1-l4_0-329_2-Ketepatan</value>
+      <webElementGuid>52c07149-5d73-42a3-badf-fd1a5764458d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select a categoryTepatTidak Tepat</value>
+      <webElementGuid>f479cd60-eae2-4a58-8274-9b48102bb767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-eb77fcd73ba822d0958cadb031f3c70b</value>
+      <webElementGuid>9ca867b5-4f5e-4914-b632-6639d1d76498</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@data-block = 'MonitoringGoLive_Component.Component_TableCustom') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' table-row ') and (position() = 3)]//*[@data-header = 'Ketepatan']//*[@required = '']</value>
+      <webElementGuid>090b6d7d-441b-4d1c-8d37-cf839878a8aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@data-block = 'MonitoringGoLive_Component.Component_TableCustom') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' table-row ') and (position() = 3)]//*[@data-header = 'Ketepatan']//*[@required = '']</value>
+      <webElementGuid>a06fb8ba-f2fd-49e3-976b-2adddf5f16d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'b3-l2-185_0-b11-b1-l2-325_3-b1-l4_0-329_2-Ketepatan' and (text() = 'Select a categoryTepatTidak Tepat' or . = 'Select a categoryTepatTidak Tepat')]</value>
+      <webElementGuid>0b97d0f3-dd65-4f94-8bd3-64e1aa4ae988</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

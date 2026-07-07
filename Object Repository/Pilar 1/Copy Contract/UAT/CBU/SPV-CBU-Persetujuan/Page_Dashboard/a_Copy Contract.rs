@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Copy Contract</name>
+   <tag></tag>
+   <elementGuidId>103f3a9b-9cfb-49c6-b6b3-c6c22c2e4990</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;\/CSUL_RCU\/ApprovalCopyContract&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div/div/aside/div/div/nav/div[2]/div/div/div/div[3]/div/div/div[2]/div/div/div[1]/div/div/div[2]/div/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8b42adc8-f53b-481f-829a-4c77eaeb97be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>last-sub-menu-link OSFillParent</value>
+      <webElementGuid>4fea4ff4-1bdb-4176-9088-37c507eefe95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/CSUL_RCU/ApprovalCopyContract</value>
+      <webElementGuid>6897e67c-de48-47a0-a164-8e898970167f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Copy Contract</value>
+      <webElementGuid>7c758f8a-9537-4d22-b51e-edac1f5742b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-90b3a8ac4692e5acf288ffd1b147a015</value>
+      <webElementGuid>c94a92fb-6f8d-4573-ae07-6385a1427d6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = '/CSUL_RCU/ApprovalCopyContract']</value>
+      <webElementGuid>4bf0cffe-194c-4e67-b30c-9a06a2d417c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = '/CSUL_RCU/ApprovalCopyContract']</value>
+      <webElementGuid>edd96195-8d0e-4e60-811c-8bbd09b49228</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/CSUL_RCU/ApprovalCopyContract' and (text() = 'Copy Contract' or . = 'Copy Contract')]</value>
+      <webElementGuid>21a82e2d-4f8d-4bd4-8226-1d3cf446bf60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

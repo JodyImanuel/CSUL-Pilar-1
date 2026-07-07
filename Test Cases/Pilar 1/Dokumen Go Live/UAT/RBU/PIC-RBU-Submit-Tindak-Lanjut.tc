@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PIC-RBU-Submit-Tindak-Lanjut</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>53aa424f-d060-4056-8980-822f2c69f956</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aa6ebc50-9e72-4884-8dce-7981eeb9dfe2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\PPU\\Downloads\\Tester File\\Lorem1_PDF.pdf'</defaultValue>
+      <description></description>
+      <id>aa6ebc50-9e72-4884-8dce-7981eeb9dfe2</id>
+      <masked>false</masked>
+      <name>Lorem</name>
+   </variable>
+</TestCaseEntity>

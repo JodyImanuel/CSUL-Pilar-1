@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_b3-b2-b1-Dropdown1</name>
+   <tag></tag>
+   <elementGuidId>5b267d9d-e9cc-41aa-989e-f226b902361b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.margin-bottom-base:nth-child(2) .dropdown-display</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' margin-bottom-base ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown-display ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1c8b7378-7fb2-44e8-a72a-fb8258f8d337</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-display dropdown</value>
+      <webElementGuid>9830d59d-9ee5-4a87-9e80-a23911ce1346</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e5f8a6c4-f68c-4f1b-a7f0-cd1c69bbb5b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>b3-b2-b1-Dropdown1</value>
+      <webElementGuid>4876465c-9d55-414d-830f-69df0fa8f6ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select BranchBALIKPAPANBANJARMASINJAKARTA 1JAKARTA 1 SYARIAHJAKARTA 2JAKARTA 3JAKARTA GROUPJAMBIMAKASARMANADOPALEMBANGPEKANBARUPONTIANAKSAMARINDASEMARANGSURABAYA</value>
+      <webElementGuid>5c80b189-b087-4779-a58a-68f0acd60f91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-60dad0e63b73b7d76d7cfce18149d81e</value>
+      <webElementGuid>0e91a5b4-6b64-4a19-9d3f-e6d69c8813ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' margin-bottom-base ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown-display ')]</value>
+      <webElementGuid>d78506f1-01d0-4f12-bc2c-76499bcf0258</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' margin-bottom-base ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown-display ')]</value>
+      <webElementGuid>1851ff2f-bd1a-49a6-864d-145a0b29122b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'b3-b2-b1-Dropdown1' and (text() = 'Select BranchBALIKPAPANBANJARMASINJAKARTA 1JAKARTA 1 SYARIAHJAKARTA 2JAKARTA 3JAKARTA GROUPJAMBIMAKASARMANADOPALEMBANGPEKANBARUPONTIANAKSAMARINDASEMARANGSURABAYA' or . = 'Select BranchBALIKPAPANBANJARMASINJAKARTA 1JAKARTA 1 SYARIAHJAKARTA 2JAKARTA 3JAKARTA GROUPJAMBIMAKASARMANADOPALEMBANGPEKANBARUPONTIANAKSAMARINDASEMARANGSURABAYA')]</value>
+      <webElementGuid>108fa5f3-2a66-4ab0-b97b-cddb18b1a396</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

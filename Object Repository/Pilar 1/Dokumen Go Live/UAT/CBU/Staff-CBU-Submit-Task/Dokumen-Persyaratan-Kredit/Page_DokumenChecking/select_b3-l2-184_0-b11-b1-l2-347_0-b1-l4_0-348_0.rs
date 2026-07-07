@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_b3-l2-184_0-b11-b1-l2-347_0-b1-l4_0-348_0</name>
+   <tag></tag>
+   <elementGuidId>ca6a7c0c-254b-45fb-9bc5-e762cc776010</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-container=&quot;&quot;]:nth-child(2) > .OSFillParent.list [data-block=&quot;MonitoringGoLive_Component\.Component_TableCustom&quot;]:nth-child(2) .table-row:nth-child(1) [data-header=&quot;Keberadaan&quot;] [required=&quot;&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div/div[3]/div[1]/section/section/div/div/div[1]/article/div/div/div/div/div[2]/div/div[1]/div[2]/div/div/div[2]/div/div[2]/table/tbody/tr[1]/td[3]/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>04bfe8de-497e-4162-9673-b79cd465987f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-display dropdown</value>
+      <webElementGuid>530a9726-73ed-4302-bd89-0bdfe075d18e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>affe1407-4adb-4a39-917c-ee2d89150559</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>b3-l2-184_0-b11-b1-l2-347_0-b1-l4_0-348_0-Keberadaan</value>
+      <webElementGuid>1d82525d-e532-45ad-98de-046a39ca9219</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select a categoryAdaTidak Ada</value>
+      <webElementGuid>268f6e06-abbd-45ad-85c1-26f51a5c8612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-9bcc4b5af440471745fac6f118991559</value>
+      <webElementGuid>1d03d1ab-257f-4b9a-a181-74eba7f4140a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(@data-container = '') and (position() = 2)]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' OSFillParent ') and contains(concat(' ', normalize-space(@class), ' '), ' list ')]//*[(@data-block = 'MonitoringGoLive_Component.Component_TableCustom') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' table-row ') and (position() = 1)]//*[@data-header = 'Keberadaan']//*[@required = '']</value>
+      <webElementGuid>5f708f2b-42ea-4262-ba45-9cad9e2d06dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(@data-container = '') and (position() = 2)]/*[@class and contains(concat(' ', normalize-space(@class), ' '), ' OSFillParent ') and contains(concat(' ', normalize-space(@class), ' '), ' list ')]//*[(@data-block = 'MonitoringGoLive_Component.Component_TableCustom') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' table-row ') and (position() = 1)]//*[@data-header = 'Keberadaan']//*[@required = '']</value>
+      <webElementGuid>b74dfeac-0a30-4267-9b53-580b67de08c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'b3-l2-184_0-b11-b1-l2-347_0-b1-l4_0-348_0-Keberadaan' and (text() = 'Select a categoryAdaTidak Ada' or . = 'Select a categoryAdaTidak Ada')]</value>
+      <webElementGuid>08c0c685-3486-4a1b-a34e-c7830f89d28b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Staff-CBU-Submit-Dokumen-Persetujuan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc1a405d-dff0-4478-9d2d-695ed69320ab</testCaseGuid>
+</TestCaseEntity>

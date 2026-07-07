@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_b3-l2-180_0-b8-b1-l1-266_0-b1-b4-dropzone</name>
+   <tag></tag>
+   <elementGuidId>c5c3819b-a675-47e7-b06b-a37f276b0265</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.OSInline.upload-box-file</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div/div/div/div/div[2]/div/span/label/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>11f9ff93-79bd-4cfe-896f-ca9c23fec5c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>upload-box-file drop-zone  OSInline</value>
+      <webElementGuid>ec7e1eb4-d56f-403b-b6d6-d8ee296cfce3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>b3-l2-180_0-b8-b1-l1-266_0-b1-b4-dropzone</value>
+      <webElementGuid>8f7220d6-18b5-4403-968f-38ac041c6119</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Drag &amp; drop files or BrowseSupported formats: .jpeg, .jpg, .png, .pdf, .xlsx, .docx</value>
+      <webElementGuid>d698f1bf-acdc-40bc-862a-9be0bbf481db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-d0f97690bec7ca3e015e484fd632026c</value>
+      <webElementGuid>95276d36-c081-4d43-9782-721059dfbbff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' OSInline ') and contains(concat(' ', normalize-space(@class), ' '), ' upload-box-file ')]</value>
+      <webElementGuid>467f2da5-71b4-417c-8f71-9e068d61d008</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' OSInline ') and contains(concat(' ', normalize-space(@class), ' '), ' upload-box-file ')]</value>
+      <webElementGuid>1d891680-1b2f-44c8-a501-8d1d83e13c93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'b3-l2-180_0-b8-b1-l1-266_0-b1-b4-dropzone' and (text() = 'Drag &amp; drop files or BrowseSupported formats: .jpeg, .jpg, .png, .pdf, .xlsx, .docx' or . = 'Drag &amp; drop files or BrowseSupported formats: .jpeg, .jpg, .png, .pdf, .xlsx, .docx')]</value>
+      <webElementGuid>5e3b4054-9023-44f1-9f4b-0af7105d94e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

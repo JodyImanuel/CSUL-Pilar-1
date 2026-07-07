@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Staff-RBU-Submit-Dokumen-Persyaratan-Kredit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b0beeba4-c3ec-4303-94da-d30da0999460</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a92c1226-37e7-40d6-b2f4-ae0ebb21d182</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\PPU\\Downloads\\Tester File\\Lorem1_PDF.pdf'</defaultValue>
+      <description></description>
+      <id>a92c1226-37e7-40d6-b2f4-ae0ebb21d182</id>
+      <masked>false</masked>
+      <name>Lorem</name>
+   </variable>
+</TestCaseEntity>

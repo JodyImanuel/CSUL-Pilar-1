@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_b3-l1-378_0-b2-TextArea_HasilCatatan</name>
+   <tag></tag>
+   <elementGuidId>217fce46-19e8-4032-80fd-680129cf0533</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.columns-item:nth-child(2) [data-block=&quot;Adaptive\.ColumnsMediumLeft&quot;] textarea</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div/div[2]/div/div/div/div[3]/div[2]/form/div/div/div[2]/div/div/div[2]/span/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>ce63e834-8909-4d73-a3f0-b973e75cac81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control text-area-custom OSFillParent</value>
+      <webElementGuid>e5a5410e-3c23-4429-9a5b-8b3c3eee8682</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>15</value>
+      <webElementGuid>e04c7108-51a8-4531-a4cd-d17b322f23e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>500</value>
+      <webElementGuid>29cd260b-d525-4c38-baa1-7923ba76feeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>b3-l1-378_0-b2-TextArea_HasilCatatan</value>
+      <webElementGuid>82328f43-bd0b-4bcb-8260-c704d374efee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-dcf099a47df1bd734f453fa8c4ec98d1</value>
+      <webElementGuid>23809edf-01a3-40e0-83b4-4bfc1d1e6c80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' columns-item ') and (position() = 2)]//*[@data-block = 'Adaptive.ColumnsMediumLeft']//textarea</value>
+      <webElementGuid>cea15fc0-fa0e-4b55-9ca7-e7c3acb06a90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' columns-item ') and (position() = 2)]//*[@data-block = 'Adaptive.ColumnsMediumLeft']//textarea</value>
+      <webElementGuid>dc76cc7c-841e-4b31-836b-0c1f847d737f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'b3-l1-378_0-b2-TextArea_HasilCatatan']</value>
+      <webElementGuid>2f4dd81c-5b67-4e4e-b91e-7b238c999cf8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

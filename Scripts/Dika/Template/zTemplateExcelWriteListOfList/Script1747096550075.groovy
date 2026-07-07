@@ -23,11 +23,11 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://galaxydev.outsystemsenterprise.com/Venus/Login')
 
-WebUI.setText(findTestObject('Object Repository/Page_Login/input_Username_Input_UsernameVal'), 'DedikSudarwanto')
+WebUI.setText(findTestObject('Object Repository/Dika/Page_Login/input_Username_Input_UsernameVal'), 'DedikSudarwanto')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_Password_Input_PasswordVal'), 'jtpiLKQwE8E=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Dika/Page_Login/input_Password_Input_PasswordVal'), 'jtpiLKQwE8E=')
 
-WebUI.doubleClick(findTestObject('Object Repository/Page_Login/button_Login'))
+WebUI.doubleClick(findTestObject('Object Repository/Dika/Page_Login/button_Login'))
 
 WebUI.doubleClick(findTestObject('Object Repository/Page_Home/div_SMD'))
 

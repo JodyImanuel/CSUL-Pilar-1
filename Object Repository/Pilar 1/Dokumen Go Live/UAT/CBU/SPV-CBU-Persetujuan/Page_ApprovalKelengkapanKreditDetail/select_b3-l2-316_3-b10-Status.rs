@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_b3-l2-316_3-b10-Status</name>
+   <tag></tag>
+   <elementGuidId>ab971c6b-78df-4b24-9473-b27490b9d5f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;\30 \.6hrohun12du&quot;] [required=&quot;&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div/div[3]/div/section/section/div/div/div[4]/article/div/div[2]/div[2]/div/div[2]/form/div/div/div[2]/div/div[1]/div[2]/div/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ca7a9352-f831-435b-8b89-25640bad792c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-display dropdown</value>
+      <webElementGuid>b1e1e82b-09d3-4568-b318-3a8c2b4da35a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>95f0b363-67d9-481b-8067-173ff7403d83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>b3-l2-316_3-b10-Status2</value>
+      <webElementGuid>c70ad75c-f7ef-4a1b-8e25-bd05a0f33ec7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select statusDisetujuiDikembalikan</value>
+      <webElementGuid>ad26d467-cd91-4fa6-9258-d99878353d53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-7afa43776d650fdfd143817ced185530</value>
+      <webElementGuid>06f273ce-758a-4e1b-8d22-e649577224a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = '0.6hrohun12du']//*[@required = '']</value>
+      <webElementGuid>aa0cbc5c-ae88-4e19-94a8-08a7d2a99173</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = '0.6hrohun12du']//*[@required = '']</value>
+      <webElementGuid>ce353768-40d1-4ec7-ba07-d12a88c4d475</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'b3-l2-316_3-b10-Status2' and (text() = 'Select statusDisetujuiDikembalikan' or . = 'Select statusDisetujuiDikembalikan')]</value>
+      <webElementGuid>1943117d-317e-4211-91b8-b3d7b249aece</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

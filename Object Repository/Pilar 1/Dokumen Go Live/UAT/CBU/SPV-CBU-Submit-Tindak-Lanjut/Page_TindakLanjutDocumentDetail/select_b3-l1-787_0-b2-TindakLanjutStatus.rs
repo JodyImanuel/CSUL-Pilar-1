@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_b3-l1-787_0-b2-TindakLanjutStatus</name>
+   <tag></tag>
+   <elementGuidId>4c808b3c-6d05-4982-9b7c-3261109cf864</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.tablet-break-none.phone-break-none.columns-medium-left .dropdown-display</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div[2]/div/div/div/div[3]/div[2]/form/div/div/div[1]/div/div/div/div[2]/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6393cb76-deb6-4010-9990-d4e8e3353799</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-display dropdown</value>
+      <webElementGuid>fec044e8-ba88-4689-901c-1fcf2412515b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>48bb0f6a-fa74-43a3-9954-106f68578e72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>b3-l1-787_0-b2-TindakLanjutStatus</value>
+      <webElementGuid>0c29700a-4202-4ecc-85b3-6ccb291b6a63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select a categorySelesaiSedang BerjalanBatal</value>
+      <webElementGuid>a4ed0915-a8c3-4b6f-921c-863fe316729b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-3c1c3265957a55ef638292a0f90bdfcb</value>
+      <webElementGuid>dfacb899-1212-4386-b369-2e9878b91fd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' tablet-break-none ') and contains(concat(' ', normalize-space(@class), ' '), ' phone-break-none ') and contains(concat(' ', normalize-space(@class), ' '), ' columns-medium-left ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown-display ')]</value>
+      <webElementGuid>19c0b28c-1649-4251-9c81-b4a2c6ce7d9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' tablet-break-none ') and contains(concat(' ', normalize-space(@class), ' '), ' phone-break-none ') and contains(concat(' ', normalize-space(@class), ' '), ' columns-medium-left ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown-display ')]</value>
+      <webElementGuid>b2069f01-e17e-4f22-9c3b-3ac4e1edfe36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'b3-l1-787_0-b2-TindakLanjutStatus' and (text() = 'Select a categorySelesaiSedang BerjalanBatal' or . = 'Select a categorySelesaiSedang BerjalanBatal')]</value>
+      <webElementGuid>bb0a18da-d4bf-4d47-8a14-686ad3756f3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

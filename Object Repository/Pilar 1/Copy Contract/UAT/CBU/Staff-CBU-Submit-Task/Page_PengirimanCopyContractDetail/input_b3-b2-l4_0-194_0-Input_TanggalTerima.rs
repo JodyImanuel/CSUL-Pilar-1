@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_b3-b2-l4_0-194_0-Input_TanggalTerima</name>
+   <tag></tag>
+   <elementGuidId>f8ecc132-12be-469d-908b-8b29827da940</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-header=&quot;Tanggal\ Terima&quot;] [type=&quot;date&quot;][value=&quot;&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div/div/div/div[3]/div[1]/table/tbody/tr/td[8]/div/span/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ae6ea44b-9780-4efb-afd8-356ca7b6e49d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control OSFillParent</value>
+      <webElementGuid>cadf3692-056c-45a8-bad2-9b08f1f74a69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>date</value>
+      <webElementGuid>f74400bd-f9fb-456a-8da4-18dd77ed8a42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>08b0dbf9-14d7-4271-81b8-c021ab454ffc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>b3-b2-l4_0-194_0-Input_TanggalTerima</value>
+      <webElementGuid>fbf43d51-a564-4e6a-85cf-d8a936d6ecbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-8f1a8cf324dd352aeadf93deac052ff2</value>
+      <webElementGuid>270b46d5-5e6d-415e-947b-70061c5a8be7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-header = 'Tanggal Terima']//*[(@type = 'date') and (@value = '')]</value>
+      <webElementGuid>c1310fdd-aca6-414f-b91a-6f21d78b9a81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-header = 'Tanggal Terima']//*[(@type = 'date') and (@value = '')]</value>
+      <webElementGuid>7e3d1f27-1ca5-43e3-a11f-4487a0346e8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'date' and @id = 'b3-b2-l4_0-194_0-Input_TanggalTerima']</value>
+      <webElementGuid>479d3c0a-78a6-442a-ac59-415ea9aa3574</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

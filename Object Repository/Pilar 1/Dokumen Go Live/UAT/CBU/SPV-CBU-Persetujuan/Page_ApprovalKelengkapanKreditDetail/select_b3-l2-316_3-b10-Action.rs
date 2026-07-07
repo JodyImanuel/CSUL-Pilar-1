@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_b3-l2-316_3-b10-Action</name>
+   <tag></tag>
+   <elementGuidId>06cfca76-59dd-47dd-bd0a-f08daa9affc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;\30 \.6hrohun12du&quot;] .columns-item:nth-child(1) .dropdown-display</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div/div[3]/div/section/section/div/div/div[4]/article/div/div[2]/div[2]/div/div[2]/form/div/div/div[1]/div/div[2]/div[2]/div/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>daa82fab-594f-4063-8aef-334eb0a85840</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-display dropdown</value>
+      <webElementGuid>da92ef81-fbfd-455c-bda7-c86810d336c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>a7fb4905-383c-4a90-93f8-08559179dd5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>b3-l2-316_3-b10-Action</value>
+      <webElementGuid>517ba9eb-c027-4d0e-ba50-05a830aabfd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select a categorySurveiTidak Survei</value>
+      <webElementGuid>ce184eb1-0ad7-4fec-acd4-6fc207bf98a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-cf79c5eeb31879e2b16906ae707bd03c</value>
+      <webElementGuid>83a18f1b-04f0-4ae9-ada1-93473dd9d5a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = '0.6hrohun12du']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' columns-item ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown-display ')]</value>
+      <webElementGuid>6803935f-e966-4e68-97b3-4951f9f48312</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = '0.6hrohun12du']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' columns-item ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown-display ')]</value>
+      <webElementGuid>b42c4968-4f08-4f38-b252-f1f36d2a7e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'b3-l2-316_3-b10-Action' and (text() = 'Select a categorySurveiTidak Survei' or . = 'Select a categorySurveiTidak Survei')]</value>
+      <webElementGuid>50fb54dc-3497-42a8-8d34-f7a99ece419c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

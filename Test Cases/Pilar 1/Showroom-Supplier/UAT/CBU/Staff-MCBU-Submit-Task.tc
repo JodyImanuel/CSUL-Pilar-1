@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Staff-MCBU-Submit-Task</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>08ea75ed-9053-466c-a19c-c4d3defc39d6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f968345d-b9d5-49a9-9f48-143e49d6e6c0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\PPU\\Downloads\\Tester File\\Lorem1_PDF.pdf'</defaultValue>
+      <description></description>
+      <id>f968345d-b9d5-49a9-9f48-143e49d6e6c0</id>
+      <masked>false</masked>
+      <name>Lorem</name>
+   </variable>
+</TestCaseEntity>

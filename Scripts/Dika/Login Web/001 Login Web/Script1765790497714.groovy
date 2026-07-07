@@ -23,11 +23,11 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl(urlWeb)
 
-WebUI.callTestCase(findTestCase('Dika/Template/zError or Wait Screen'), [('waitElement') : findTestObject('Object Repository/Page_Login/input_Username_Input_UsernameVal')], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Dika/Template/zError or Wait Screen'), [('waitElement') : findTestObject('Object Repository/Dika/Page_Login/input_Username_Input_UsernameVal')], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Object Repository/Page_Login/input_Username_Input_UsernameVal'), usernameSpv)
+WebUI.setText(findTestObject('Object Repository/Dika/Page_Login/input_Username_Input_UsernameVal'), usernameSpv)
 
-WebUI.setText(findTestObject('Object Repository/Page_Login/input_Password_Input_PasswordVal'), passwordSpv)
+WebUI.setText(findTestObject('Object Repository/Dika/Page_Login/input_Password_Input_PasswordVal'), passwordSpv)
 
-WebUI.doubleClick(findTestObject('Object Repository/Page_Login/button_Login'))
+WebUI.doubleClick(findTestObject('Object Repository/Dika/Page_Login/button_Login'))
 

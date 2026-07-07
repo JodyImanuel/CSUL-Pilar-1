@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_b3-b1-b1-Dropdown3</name>
+   <tag></tag>
+   <elementGuidId>b83566e5-66c2-4aab-9234-eb4251a08914</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.margin-bottom-base.align-items-center:nth-child(4) .dropdown-display</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' margin-bottom-base ') and contains(concat(' ', normalize-space(@class), ' '), ' align-items-center ') and (position() = 4)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown-display ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>79b63b7d-c6e2-4af0-b5b2-253b35642657</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-display dropdown</value>
+      <webElementGuid>f339b628-39b5-461d-8f73-3fe5f170ae68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>c501c350-8dab-4e81-bae3-05131e8ebc4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>b3-b1-b1-Dropdown3</value>
+      <webElementGuid>8b294a12-dbc4-4038-83da-00d4a302cda8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih OpsiBARUDALAM PROSESMENUNGGU PERSETUJUANDIKEMBALIKAN</value>
+      <webElementGuid>8fbe4495-1ea8-4c26-b858-0d70a2c2bb7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-232780ca557890daec0818aacb8f929b</value>
+      <webElementGuid>e73c1998-de3d-4c8d-ac2d-285fa6523727</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' margin-bottom-base ') and contains(concat(' ', normalize-space(@class), ' '), ' align-items-center ') and (position() = 4)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown-display ')]</value>
+      <webElementGuid>bc048142-8e04-4d44-bfcd-a96bb990fff7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' margin-bottom-base ') and contains(concat(' ', normalize-space(@class), ' '), ' align-items-center ') and (position() = 4)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown-display ')]</value>
+      <webElementGuid>020863bc-59b6-42bd-a43b-788f56f1082d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'b3-b1-b1-Dropdown3' and (text() = 'Pilih OpsiBARUDALAM PROSESMENUNGGU PERSETUJUANDIKEMBALIKAN' or . = 'Pilih OpsiBARUDALAM PROSESMENUNGGU PERSETUJUANDIKEMBALIKAN')]</value>
+      <webElementGuid>0c1d0414-f505-4393-8947-f585ad977cd2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_b3-b2-l4_0-194_0-Dropdown2</name>
+   <tag></tag>
+   <elementGuidId>67caef12-157b-4e4f-9142-43870d3a18d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-header=&quot;Status\ Pengiriman&quot;] .dropdown</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div/div/div/div[3]/div[1]/table/tbody/tr/td[5]/div/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>cec9cc1f-d6bf-4848-b291-0f836dd7f353</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-display dropdown</value>
+      <webElementGuid>f42a7ecf-551e-4c8f-8e78-5f9e0e0905ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e8a535a4-fc4e-4746-9bf6-c6e0a4e55da0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>b3-b2-l4_0-194_0-Dropdown2</value>
+      <webElementGuid>1dffe914-97b3-4a8c-8582-1dd8afdd30a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select CategoryTerkirimTidak TerkirimTidak Ada</value>
+      <webElementGuid>045ec73f-4d33-4bdd-aa31-a901a59d2ba1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-126f04f195c28564caa8ec3fe23e951a</value>
+      <webElementGuid>a5f6f3e4-3558-43d8-b2dd-b38176f5966b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-header = 'Status Pengiriman']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown ')]</value>
+      <webElementGuid>8a20c5d9-dc88-4955-a34c-320b5efc0240</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-header = 'Status Pengiriman']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dropdown ')]</value>
+      <webElementGuid>4f844479-33bc-4402-a5de-d385c1b47cd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'b3-b2-l4_0-194_0-Dropdown2' and (text() = 'Select CategoryTerkirimTidak TerkirimTidak Ada' or . = 'Select CategoryTerkirimTidak TerkirimTidak Ada')]</value>
+      <webElementGuid>0d4811b4-ac70-4965-b873-d311577e927d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
